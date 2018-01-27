@@ -1,6 +1,26 @@
-# Site navigation links
+# Footer navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Web Works
+  url: /portfolio/
+  excerpt: "砥砺前行，全力以赴"
+  image: WebWorks.jpg
+  
+- title: Visual Works
+  url: /infovis/
+  excerpt: "搬斤播两，真相大白"
+  image: visualization_Works.jpg
+
+- title: Web Folder
+  url: /posts/rwd/
+  excerpt: "死皮赖脸，好运降头"
+  image: daima.png
+
+- title: Visual Folder
+  url: /posts/infovis/
+  excerpt: "从头开始，卖力到底"
+  image: stick.gif
+
+- title: Contact
+  url: /contact/
+  excerpt: "相互学习 多多指教"
+  image: capeu.png
