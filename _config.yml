@@ -1,10 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Capeu"
+description: "Whateveer you do, do it well"
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: zh_TW # 本地化翻譯
 url:
 feed:
   path: atom.xml
@@ -26,13 +27,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: 梁超凤
+  email: 429114000@qq.com
+  twitter: Capeu
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "文学与传媒学院 网新学子"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
