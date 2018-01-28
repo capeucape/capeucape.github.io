@@ -8,19 +8,19 @@
 - title: Visual Works
   url: /new.github.io/infovis/
   excerpt: "搬斤播两，真相大白"
-  image: new.github.io/visualization_Works.jpg
+  image: new.github.io/stick.gif
 
 - title: Web Folder
   url: /new.github.io/posts/rwd/
   excerpt: "死皮赖脸，好运降头"
-  image: daima.png
+  image: new.github.io/daima.png
 
 - title: Visual Folder
   url: /new.github.io/posts/infovis/
   excerpt: "从头开始，卖力到底"
-  image: stick.gif
+  image: new.github.io/visualization_Works.jpg
 
 - title: Contact
   url: /new.github.io/contact/
   excerpt: "相互学习 多多指教"
-  image: capeu.png
+  image: new.github.io/capeu.png
