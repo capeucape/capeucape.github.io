@@ -8,7 +8,6 @@ image:
   feature: gembox.png
 ---
 我来罗列一下这段时间对我设计帮助很大的国内外网站
-![Ruby](http://7xkx5a.com1.z0.glb.clouddn.com/1%20%2810%29.jpg)
 
 我来罗列一下近几年对我设计帮助很大的国内外网站
 
