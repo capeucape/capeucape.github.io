@@ -1,14 +1,14 @@
 ---
 layout: article
-title:  "關於我"
-date:   2018-01-29 22:07:50 +0800
+title:  "有哪些不错的网页设计素材网站？"
+date:   2018-01-22 22:07:50 +0800
 categories: notes_tech Jekyll
 image:
-  teaser: me.png
-  feature: me.png
+  teaser: gembox.png
+  feature: gembox.png
 ---
 我来罗列一下这段时间对我设计帮助很大的国内外网站
-![Ruby](http://7xkx5a.com1.z0.glb.clouddn.com/1%20%282%29.jpg)
+![Ruby](http://7xkx5a.com1.z0.glb.clouddn.com/1%20%2810%29.jpg)
 
 我来罗列一下近几年对我设计帮助很大的国内外网站
 
