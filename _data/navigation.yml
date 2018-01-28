@@ -1,26 +1,26 @@
 # Footer navigation links
 
 - title: Web Works
-  url: /new.github.io/portfolio/
+  url: /portfolio/
   excerpt: "砥砺前行，全力以赴"
-  image: new.github.io/webwork.jpg
+  image: webwork.jpg
   
 - title: Visual Works
-  url: /new.github.io/infovis/
+  url: /infovis/
   excerpt: "搬斤播两，真相大白"
-  image: new.github.io/stick.gif
+  image: stick.gif
 
 - title: Web Folder
-  url: /new.github.io/posts/rwd/
+  url: /posts/rwd/
   excerpt: "死皮赖脸，好运降头"
-  image: new.github.io/daima.png
+  image: daima.png
 
 - title: Visual Folder
-  url: /new.github.io/posts/infovis/
+  url: /posts/infovis/
   excerpt: "从头开始，卖力到底"
-  image: new.github.io/visualization_Works.jpg
+  image: visualization_Works.jpg
 
 - title: Contact
-  url: /new.github.io/contact/
+  url: /contact/
   excerpt: "相互学习 多多指教"
-  image: new.github.io/capeu.png
+  image: capeu.png
