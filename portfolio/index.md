@@ -10,7 +10,7 @@ image:
   teaser: webwork.jpg
 ---
 
-在此展示i18nl10n，含＂一带一路＂倡议
+
 
 <div class="tiles">
 {% for post in site.categories.i18nl10n %}
