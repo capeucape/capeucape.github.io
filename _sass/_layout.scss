@@ -26,7 +26,7 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	color: #daa520;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -55,6 +55,8 @@
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
+			@include transition(color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
+			@include transition(background-color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			&:before,
 			&:after {
 				content: '';
@@ -62,8 +64,8 @@
 				position: absolute;
 				top: 0;
 				left: 0;
-				height: 2px;
-				@include transition(width 0.3s);
+				height: 3px;
+				@include transition(width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			}
 			&:before {
 				width: 100%;
@@ -71,11 +73,15 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background-color: $OrangeRed;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
+			}
+			&:hover {
+				color: $MediumSpringGreen;
+				background-color: $white;
 			}
 		}
 	}
@@ -105,7 +111,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: #595959;
 			text-transform: uppercase;
 		}
 	}
@@ -183,7 +189,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: lighten($black,60);
+					color: #daa520;
 				}
 			}
 		}
@@ -267,16 +273,33 @@
 // page header
 .page-feature {
 	@include fill-parent;
-	// expand image to cover full width of header
+	// expand image to cover full width of header--
+	// instead,using auto, max-width
 	img {
-		width: 100%;
+		width: auto;
+		max-width: 100%;
+		@include media($medium) {
+			max-width: 50%;
+		}
+		@include media($large) {
+			max-width: 33%;
+		}
+
 	}
 }
-// make image flush with edges on small screens
+// make image flush with edges on small screens (only when)
 .page-image {
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
+		@include media($medium) {
+			margin-left: 0;
+			margin-right: 0;
+		}
+		@include media($large) {
+			margin-left: 0;
+			margin-right: 0;
+		}
 	// feature image caption
 	.image-credit {
 		position: absolute;
