@@ -1,7 +1,7 @@
 ---
 layout: article
-title:  "期中专题的tableau作品"
-date:   2018-01-04 08:07:50 +0800
+title:  "期中tableau作品"
+date:   2018-01-29 08:07:50 +0800
 categories: zuopinji
 image:
   teaser: qizhong.png
