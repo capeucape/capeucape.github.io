@@ -8,5 +8,6 @@ title: "这是小白的新家"
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
+  {% include sidebar-search.html %}
 {% endfor %}
 </div><!-- /.tiles -->
