@@ -13,7 +13,7 @@ image:
 
 以下是我收藏的素材网站
 
-PSD素材下载：<a href="http://www.sccnn.com/">http://www.sccnn.com/</a>
+PSD素材下载：<a href="http://www.sccnn.com/" target="view_window">http://www.sccnn.com/</a>
 
 保育士情報ちゃんねる
 
