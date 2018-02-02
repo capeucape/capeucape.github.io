@@ -13,6 +13,8 @@ image:
 
 以下是我收藏的素材网站
 
+PSD素材下载：<a href="http://www.sccnn.com/">http://www.sccnn.com/</a>
+
 保育士情報ちゃんねる
 
 <a href="http://www.freebiepixels.com">http://www.freebiepixels.com</a>
