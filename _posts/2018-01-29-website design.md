@@ -13,13 +13,9 @@ image:
 
 以下是我收藏的素材网站
 
-网页元素PSD下载：
-
-<a href="www.kbsportfolio.com" target="view_window">www.kbsportfolio.com</a>
-
 保育士情報ちゃんねる
 
-http://www.freebiepixels.com
+<a href="http://www.freebiepixels.com">http://www.freebiepixels.com</a>
 
 http://psdho.me
 
