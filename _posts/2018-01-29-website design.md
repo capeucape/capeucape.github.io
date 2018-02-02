@@ -15,7 +15,7 @@ image:
 
 网页元素PSD下载：
 
-kbsportfolio.com
+<a href="kbsportfolio.com">kbsportfolio.com</a>
 
 保育士情報ちゃんねる
 
