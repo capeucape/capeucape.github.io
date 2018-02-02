@@ -13,131 +13,34 @@ image:
 
 以下是我收藏的素材网站
 
-PSD素材下载：<a href="http://www.sccnn.com/" target="view_window">http://www.sccnn.com/</a>
+PSD素材下载：
+
+<a href="http://www.sccnn.com/" target="view_window">http://www.sccnn.com/</a>
+
 
 保育士情報ちゃんねる
 
-<a href="http://www.freebiepixels.com">http://www.freebiepixels.com</a>
+<a href="http://www.designdeck.co.uk" target="view_window">http://www.designdeck.co.uk</a>
 
-http://psdho.me
+<a href="http://www.designshock.com/" target="view_window">http://www.designshock.com/</a>
 
-http://designmoo.com/
-
-http://www.designdeck.co.uk
-
-http://www.psd-free.com
-
-http://www.designkindle.com/
-
-http://pixelsdaily.com/
-
-http://365psd.com
-
-http://www.designshock.com/
-
-http://simplypixels.net
-
-http://www.psdchest.com/
-
-http://pixelentity.com
-
-http://www.uipixels.com
-
-http://freebiesbooth.com/
-
-http://blog.ninetofive.me/
-
-http://www.premiumpixels.com/
-
-http://duckfiles.com
-
-http://www.xinsheji.org/icon
 
 搜索下载：
 
-http://findicons.com/
+<a href="http://findicons.com/" target="view_window">http://findicons.com/</a>
 
-http://www.iconfinder.com
-
-http://www.iconlet.com/
-
-http://www.iconpng.com/
-
-http://www.iconfinder.com/
-
-http://iconwanted.com/
-
-http://easyicon.cn/
 
 纹理：
 
-http://www.backgroundlabs.com/
-
-http://lostandtaken.com/
-
-http://subtlepatterns.com/
-
-http://crowquills.com
-
+<a href="http://www.backgroundlabs.com/" target="view_window">http://www.backgroundlabs.com/</a>
 
 ————————以下网站可为网页设计提供参考和灵感—————————
 
 ICON欣赏网站
 
-http://www.iconsfeed.com/
+<a href="http://www.iconsfeed.com/" target="view_window">http://www.iconsfeed.com/</a>
 
-http://www.skidanov.com/
 
 UI欣赏
 
-http://fanggeben.com
-
-http://dribbble.com/
-
-http://boxtuffs.com/
-
-设计类博客（国外）
-
-http://sixrevisions.com/
-
-http://www.teehanlax.com/blog/
-
-http://webdesignledger.com/
-
-http://webexpedition18.com/
-
-http://www.noupe.com/
-
-http://victorsosea.com/
-
-http://www.freewebelements.com/（中国）
-
-http://www.nbshe.com/
-
-http://www.cnblogs.com/lhb25/
-
-http://www.shejidaren.com/
-
-http://www.boxui.com/
-
-http://tgideas.qq.com/
-
-配色
-
-http://kuler.adobe.com
-
-http://colorexplorer.com/
-
-http://www.peise.net/
-
-http://www.colourlovers.com/
-
-http://colorschemedesigner.com/
-
-http://www.xuexuecolors.com/
-
-http://www.colorhunter.com/
-
-http://www.colorschemer.com/酷站集合（国外）
-
-http://www.stylevault.net/
+<a href="http://dribbble.com/" target="view_window">http://dribbble.com/</a>
